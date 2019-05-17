@@ -1,5 +1,3 @@
-# policy
-
 # Privacy Policy
 Loudy Corp built the Stock Buddy app as a Free app. This SERVICE is provided by Loudy Corp at no cost and is intended for use as is.
 
